@@ -1,10 +1,10 @@
-### DocOfMacro
+# DocOfMacro
 Cette norme de documentation est inspiré d'un live de GodOfMacro !
 L'idée de cette technique est de pouvoir commenter du code même quand on a la flemme.
 
 ## Version
 README.md doit contenir la version la plus moderne dans sa langue la plus universelle.
-# 1.0.0 fr-FR
+### 1.0.0 fr-FR
 
 ## Crédits
 - GodOfMacro
@@ -12,13 +12,13 @@ README.md doit contenir la version la plus moderne dans sa langue la plus univer
 
 ## Fonctionnement de base
 
-# La procédure se déroule en quatre étapes :
+### La procédure se déroule en quatre étapes :
 - Copier
 - Coller
 - Coder
 - Documenter
 
-# Copier
+### Copier
 
 Pour utiliser une librairie ou un framework, il suffit de copier une liste d'instructions présente sur la documentation.
 La mise en forme de la liste doit se transformer en commentaire au moment de la copie :
@@ -40,7 +40,7 @@ Devra être transformé sous cette forme
 ```
 La liste doit comporter les étapes avec un marquage pour le début et la fin ainsi qu'un lien de référence pour cette documentation.
 
-# Coller
+### Coller
 
 La partie la plus facile, coller les commentaires dans son code !
 ```
@@ -51,7 +51,7 @@ La partie la plus facile, coller les commentaires dans son code !
 //END Outil > Classe Truc > Action Machin
 ```
 
-# Coder
+### Coder
 
 Le code doit comporter les marquages de début et de fin avec le lien de référence et uniquement les étapes utiles
 ```php
@@ -68,7 +68,7 @@ function machin() {
 }
 ```
 
-# Documenter
+### Documenter
 
 La documentation doit comporter un sommaire en arborescence qui liste :
 - Une page principale
